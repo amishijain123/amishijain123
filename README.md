@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm <b>Amishi Jain</b></h1>
-<h3 align="center">🚀 AI | ML | Full Stack Developer | Building for Real Impact</h3>
+
+<h3 align="center">🚀 AI | ML | Full Stack Developer | Build for Real Impact</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=B347FF&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=AI+Enthusiast;Backend+Developer;Building+Real+World+Projects" />
 </p>
 
 ---
@@ -28,8 +29,9 @@
 ---
 
 ## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amishijain123&theme=react-dark" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amishijain123&theme=react-dark&area=true" />
+</p>
 
 ---
 
@@ -45,7 +47,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,nextjs,tailwind,nodejs,react,mongodb,mysql,docker,git,github,vscode,postman,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,nextjs,nodejs,react,mongodb,mysql,docker,git,github,vscode,figma,linux" />
 </p>
 
 ---
@@ -62,11 +64,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-
   <a href="mailto:jainamishi2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -79,7 +80,6 @@
 ---
 
 ## ✨ Thanks for visiting!
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
