@@ -15,17 +15,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=amishijain123&show_icons=true&theme=radical" />
-  <img height="180px" src="https://github-readme-activity-graph.vercel.app/graph?username=amishijain123&theme=react-dark" />
-</div>
+## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amishijain123&theme=tokyonight" />
 </p>
-
 ---
 
 ## 📈 Activity Graph
