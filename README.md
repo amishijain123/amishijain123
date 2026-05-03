@@ -14,6 +14,20 @@
 - 💡 Building scalable real-world solutions
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img height="195px" src="https://github-readme-stats-one-bice.vercel.app/api?username=amishijain123&show_icons=true&include_all_commits=true&include_private_commits=true&theme=transparent&hide_border=true&title_color=B347FF&icon_color=B347FF&text_color=c9d1d9&bg_color=0d1117&ring_color=B347FF&custom_title=Amishi's%20GitHub%20Stats" alt="Amishi Jain github stats" />
+      </td>
+      <td align="center">
+        <img height="195px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=amishijain123&layout=compact&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🔥 Streak Stats
 
