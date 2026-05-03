@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amishi Jain</h1>
+<h1 align="center">Hi 👋, I'm <b>Amishi Jain</b></h1>
 <h3 align="center">🚀 AI | ML | Full Stack Developer | Building for Real Impact</h3>
 
 <p align="center">
@@ -8,30 +8,28 @@
 ---
 
 ## 🧠 About Me
-- 🎓 B.Tech CSE @ UPES
-- 🌱 Working on **AI-powered Agriculture (VAISHVIK Project)**
+- 🎓 B.Tech CSE @ UPES 
 - 🤖 Exploring **Machine Learning, NLP, Backend Systems**
 - 💡 Building scalable real-world solutions
-- 🎯 Goal: **SDE @ Google / Microsoft**
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=amishijain123&show_icons=true&theme=radical" />
+  <img height="180px" src="https://github-readme-activity-graph.vercel.app/graph?username=amishijain123&theme=react-dark" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amishijain123&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amishijain123&theme=react-dark" />
 
 ---
 
