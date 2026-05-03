@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Amishi Jain</h1>
+<h3 align="center">🚀 AI | ML | Full Stack Developer | Building for Real Impact</h3>
 
-<!--
-**amishijain123/amishijain123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=B347FF&style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🎓 B.Tech CSE @ UPES
+- 🌱 Working on **AI-powered Agriculture (VAISHVIK Project)**
+- 🤖 Exploring **Machine Learning, NLP, Backend Systems**
+- 💡 Building scalable real-world solutions
+- 🎯 Goal: **SDE @ Google / Microsoft**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+
+---
+
+## 🚀 Featured Projects
+
+- 🌾 **VAISHVIK** – AI-powered smart agriculture system  
+- 📄 **Research Paper Summarizer** – NLP-based system  
+- ⚙️ **Emple Backend** – Node.js + Express APIs  
+- 🤖 AI Chatbot (Telegram + n8n + GPT)
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,mongodb,mysql,docker" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-B347FF?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 💬 Quote
+
+> “Building solutions that matter, not just code that runs.”
+
+---
+
+## ✨ Thanks for visiting!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
