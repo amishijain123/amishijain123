@@ -45,7 +45,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=C,C++,python,java,js,html,css,react,nextjs,tailwind,nodejs,react,mongodb,mysql,docker,git,github,vscode,postman,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,nextjs,tailwind,nodejs,react,mongodb,mysql,docker,git,github,vscode,postman,figma,linux" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amishijain123&theme=radical&no-frame=true" />
 </p>
 
 ---
@@ -62,7 +62,11 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-B347FF?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:jainamishi2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
