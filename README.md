@@ -79,12 +79,10 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
----
 
 ## 💬 Quote
 
 > “Building solutions that matter, not just code that runs.”
-
 ---
 
 ## ✨ Thanks for visiting!
