@@ -32,13 +32,15 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amishijain123&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=amishijain123&theme=tokyonight" />
 </p>
+
 ---
 
 ## 📈 Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amishijain123&theme=react-dark&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amishijain123&theme=react-dark" />
 </p>
 
 ---
@@ -63,9 +65,13 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amishijain123&theme=radical&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amishijain123&theme=radical&no-frame=true&no-bg=true" />
 </p>
 
+### 🧌  Kaggle Badges
+<div align="center">
+  <img src="./assets/kagglebadges.png" alt="Kaggle Profile Badges">
+</div>
 ---
 
 ## 🌐 Connect With Me
