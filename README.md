@@ -70,8 +70,9 @@
 
 ### 🧌  Kaggle Badges
 <div align="center">
-  <img src="./assets/kagglebadges.png" alt="Kaggle Profile Badges">
+  <img src="./assets/kaggle_badges.png" alt="Kaggle Profile Badges">
 </div>
+
 ---
 
 ## 🌐 Connect With Me
