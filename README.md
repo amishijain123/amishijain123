@@ -64,9 +64,14 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amishijain123&theme=radical&no-frame=true&no-bg=true" />
-</p>
+<div align="center">
+  <img
+    src="https://github-trophies.vercel.app/?username=amishijain123&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Followers,Issues,Reviews,LongTimeUser,NewUser,Organizations,Experience&theme=monokai&no-frame=true&no-bg=true&column=6&row=2&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
+    width="100%"
+  />
+</div>
+
 
 ### 🧌  Kaggle Badges
 <div align="center">
